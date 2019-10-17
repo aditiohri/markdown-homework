@@ -6,7 +6,7 @@
  print working directory
 
 **ls**  
- list working directory contents
+ list directory contents
 
 **~**  
  home directory
@@ -24,15 +24,15 @@
  open file
 
 **mv**  
- move file to new location (mv filename newfilelocation)
+ move file to new location (mv filename newfilelocation)  
  rename file or directory (mv filename newfilename)
 
 **rm**  
- permanently delete files and directories
+ permanently delete files and directories  
  include **-r** after command and before directory name to delete a directory
 
 **cp**  
- make copy of a file
+ make copy of a file  
  include **-r** after command and before directory name to copy a directory
 
 ***.ext**  
@@ -42,14 +42,14 @@
  clear screen 
 
 **man**  
- type any command name followed by **man** to print manual of command functions
+ type any command name followed by **man** to print manual of command functions  
  type **q** to return to terminal CLI
 
 **&&**  
  call multiple commands sequentially, in the same line, by placing && between commands
 
 **create new shortcuts by editing /.bash_profile**  
- after editing file, enter $ source /.bash_profile
+ after editing file, enter $ source /.bash_profile  
  then call new command
 
 ### GIT COMMANDS
